@@ -7,7 +7,7 @@ struct Visitor
 end
 
 # Initializing an empty list to store visitors
-visitors = []
+visitors = ["a","b","c"]
 
 # Function to add a visitor
 function add_visitor(name::String, purpose::String, check_in::String)
