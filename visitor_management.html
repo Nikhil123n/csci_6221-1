@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visitor Management System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 50px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input[type="text"], input[type="time"] {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        .btn {
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .btn:disabled {
+            background-color: #ccc;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Visitor Management System</h1>
+
+    <div class="form-group">
+        <label for="name">Visitor Name</label>
+        <input type="text" id="name" placeholder="Enter visitor's name">
+    </div>
+
+    <div class="form-group">
+        <label for="purpose">Purpose of Visit</label>
+        <input type="text" id="purpose" placeholder="Enter purpose of visit">
+    </div>
+
+    <div class="form-group">
+        <label for="checkin">Check-In Time</label>
+        <input type="time" id="checkin">
+    </div>
+
+    <div class="form-group">
+        <button class="btn" onclick="addVisitor()">Add Visitor</button>
+    </div>
+
+    <h2>Visitor List</h2>
+    <table id="visitorTable">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Purpose</th>
+                <th>Check-In Time</th>
+                <th>Check-Out Time</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Visitor rows will be added here -->
+        </tbody>
+    </table>
+</div>
+
+<script>
+    // Visitor data structure
+    let visitors = [];
+
+    // Function to add a visitor
+    function addVisitor() {
+        const name = document.getElementById('name').value;
+        const purpose = document.getElementById('purpose').value;
+        const checkin = document.getElementById('checkin').value;
+
+        if (!name || !purpose || !checkin) {
+            alert("Please fill out all fields.");
+            return;
+        }
+
+        const visitor = {
+            name: name,
+            purpose: purpose,
+            checkin: checkin,
+            checkout: null
+        };
+        visitors.push(visitor);
+
+        renderTable();
+        clearFields();
+    }
+
+    // Function to render visitor table
+    function renderTable() {
+        const tbody = document.querySelector("#visitorTable tbody");
+        tbody.innerHTML = "";
+
+        visitors.forEach((visitor, index) => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>${visitor.name}</td>
+                <td>${visitor.purpose}</td>
+                <td>${visitor.checkin}</td>
+                <td>${visitor.checkout ? visitor.checkout : 'Not Checked Out'}</td>
+                <td>
+                    <button class="btn" onclick="checkOut(${index})">Check-Out</button>
+                    <button class="btn" onclick="removeVisitor(${index})">Remove</button>
+                </td>
+            `;
+            tbody.appendChild(row);
+        });
+    }
+
+    // Function to check out a visitor
+    function checkOut(index) {
+        const checkoutTime = prompt("Enter Check-Out Time (e.g., 05:00 PM):");
+        if (checkoutTime) {
+            visitors[index].checkout = checkoutTime;
+            renderTable();
+        }
+    }
+
+    // Function to remove a visitor
+    function removeVisitor(index) {
+        visitors.splice(index, 1);
+        renderTable();
+    }
+
+    // Function to clear form fields
+    function clearFields() {
+        document.getElementById('name').value = "";
+        document.getElementById('purpose').value = "";
+        document.getElementById('checkin').value = "";
+    }
+</script>
+
+</body>
+</html>
