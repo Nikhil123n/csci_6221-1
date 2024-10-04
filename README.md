@@ -1,4 +1,4 @@
-# CSCI 6221 Project - Julia Programming
+# CSCI 6221 Project - Julia Programming - Group
 
 ## Project Overview
 This repository will contain the materials for the CSCI 6221 project involving the **Julia** programming language. The specific project is yet to be determined, but the focus will be on leveraging Julia's high-performance capabilities for scientific computing.
