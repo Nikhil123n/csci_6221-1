@@ -1,0 +1,1050 @@
+┌ Info: 2024-11-18 00:08:24 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 00:08:27 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:08:47 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 00:08:47 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 00:08:47 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:08:47 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:08:49 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LQVTZRGBDYJJGYCSJZFBRSSMYORWDYXP 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-18 00:08:50 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Info: 2024-11-18 00:10:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:10:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:10:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:10:39 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:10:39 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:10:39 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:10:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:10:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:10:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:13:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:13:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:13:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:13:43 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:13:43 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:13:43 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:15:11 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:15:11 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:15:11 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:15:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:15:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:15:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:17:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:17:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:17:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:17:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:17:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:17:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:18:38 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:18:38 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:18:38 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:19:36 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:19:47 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:19:47 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:19:47 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:20:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:20:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:20:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:21:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:22:36 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:22:36 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:22:36 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:24 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:24 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:24 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:41 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:41 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:41 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:50 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:50 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:23:50 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:24:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:24:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:24:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:25:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:25:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:25:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:26:09 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:26:09 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:26:09 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:27:20 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:27:20 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:27:20 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:28:09 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:28:09 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:28:09 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:31:59 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:31:59 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:31:59 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:32:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:32:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:32:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:32:26 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:32:26 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:32:26 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:33:25 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:33:25 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:33:25 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:33:35 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:33:35 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:33:35 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:33:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:33:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:33:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:34:27 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:34:27 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:34:27 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:34:58 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:34:58 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:34:58 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:35:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:35:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:35:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:35:31 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:35:31 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:35:31 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:36:03 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:36:03 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:36:03 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:36:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:36:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:36:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:36:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:36:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:36:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:37:29 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:37:29 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:37:29 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:37:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:37:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:37:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Warning: 2024-11-18 00:37:45 UndefVarError(:latitude_display)
+└ @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:140
+┌ Warning: 2024-11-18 00:37:46 UndefVarError(:latitude_display)
+└ @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:140
+┌ Info: 2024-11-18 00:37:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:37:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:37:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:39:34 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:39:34 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:39:34 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:39:43 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:39:43 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:39:43 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:39:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:39:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:39:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:45:20 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:45:20 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:45:20 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:45:40 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:45:40 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:45:40 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:01 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:01 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:01 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:22 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:22 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:22 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:46:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:01 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:01 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:01 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:08 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:08 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:08 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Error: 2024-11-18 00:49:31 LoadError: syntax: invalid keyword argument name "true" around C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:9
+│ Stacktrace:
+│   [1] top-level scope
+│     @ C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:3
+│   [2] include
+│     @ .\Base.jl:495 [inlined]
+│   [3] get_template(path::String; partial::Bool, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:376
+│   [4] get_template
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:359 [inlined]
+│   [5] render(viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:454
+│   [6] render
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:450 [inlined]
+│   [7] render(::Type{MIME{Symbol("text/html")}}, viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:502
+│   [8] render
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:498 [inlined]
+│   [9] #html#37
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:658 [inlined]
+│  [10] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\nikhi\.julia\packages\Stipple\7i4cF\src\Pages.jl:68
+│  [11] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:547
+│  [12] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:172
+│  [13] route_request
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:147 [inlined]
+│  [14] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:300
+│  [15] handle_request
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:292 [inlined]
+│  [16] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [17] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [18] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [19] #153
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [20] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [21] #remotecall_fetch#158
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [22] remotecall_fetch
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [23] remotecall_fetch
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [24] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:344
+│  [25] setup_http_listener (repeats 2 times)
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:342 [inlined]
+│  [26] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:313
+│  [27] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:333
+│  [28] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:124
+│  [29] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [30] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [31] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:469
+│  [32] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:401
+│ in expression starting at C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:3
+│ 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:356
+┌ Info: 2024-11-18 00:49:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:49:53 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Error: 2024-11-18 00:49:53 LoadError: syntax: invalid keyword argument name "true" around C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:9
+│ Stacktrace:
+│   [1] top-level scope
+│     @ C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:3
+│   [2] include
+│     @ .\Base.jl:495 [inlined]
+│   [3] get_template(path::String; partial::Bool, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:376
+│   [4] get_template
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:359 [inlined]
+│   [5] render(viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:454
+│   [6] render
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:450 [inlined]
+│   [7] render(::Type{MIME{Symbol("text/html")}}, viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:502
+│   [8] render
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:498 [inlined]
+│   [9] #html#37
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:658 [inlined]
+│  [10] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\nikhi\.julia\packages\Stipple\7i4cF\src\Pages.jl:68
+│  [11] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:547
+│  [12] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:172
+│  [13] route_request
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:147 [inlined]
+│  [14] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:300
+│  [15] handle_request
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:292 [inlined]
+│  [16] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [17] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [18] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [19] #153
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [20] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [21] #remotecall_fetch#158
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [22] remotecall_fetch
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [23] remotecall_fetch
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [24] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:344
+│  [25] setup_http_listener (repeats 2 times)
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:342 [inlined]
+│  [26] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:313
+│  [27] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:333
+│  [28] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:124
+│  [29] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [30] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [31] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:469
+│  [32] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:401
+│ in expression starting at C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:3
+│ 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:356
+┌ Info: 2024-11-18 00:50:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:50:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:50:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Error: 2024-11-18 00:50:51 LoadError: syntax: invalid keyword argument name "true" around C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:9
+│ Stacktrace:
+│   [1] top-level scope
+│     @ C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:3
+│   [2] include
+│     @ .\Base.jl:495 [inlined]
+│   [3] get_template(path::String; partial::Bool, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:376
+│   [4] get_template
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:359 [inlined]
+│   [5] render(viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:454
+│   [6] render
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:450 [inlined]
+│   [7] render(::Type{MIME{Symbol("text/html")}}, viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:502
+│   [8] render
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:498 [inlined]
+│   [9] #html#37
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:658 [inlined]
+│  [10] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\nikhi\.julia\packages\Stipple\7i4cF\src\Pages.jl:68
+│  [11] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:547
+│  [12] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:172
+│  [13] route_request
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:147 [inlined]
+│  [14] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:300
+│  [15] handle_request
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:292 [inlined]
+│  [16] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [17] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [18] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [19] #153
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [20] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [21] #remotecall_fetch#158
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [22] remotecall_fetch
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [23] remotecall_fetch
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [24] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:344
+│  [25] setup_http_listener (repeats 2 times)
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:342 [inlined]
+│  [26] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:313
+│  [27] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:333
+│  [28] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:124
+│  [29] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [30] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [31] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:469
+│  [32] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:401
+│ in expression starting at C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:3
+│ 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:356
+┌ Info: 2024-11-18 00:51:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:51:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:51:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:51:41 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:51:41 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:51:41 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:51:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:51:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:51:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:52:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:52:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:52:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:52:54 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:52:54 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:52:54 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:15 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:15 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:15 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:25 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:25 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:25 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:40 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:40 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:53:40 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:16 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:18 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:18 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:18 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:24 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:24 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:24 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:42 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:42 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:42 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:51 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:51 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:54:51 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:01 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:01 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:01 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:15 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:15 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:15 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:26 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:26 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:26 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:32 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:32 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:32 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:55:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Error: 2024-11-18 00:55:56 LoadError: syntax: invalid keyword argument name "false" around C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:56
+│ Stacktrace:
+│   [1] top-level scope
+│     @ C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:3
+│   [2] include
+│     @ .\Base.jl:495 [inlined]
+│   [3] get_template(path::String; partial::Bool, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:376
+│   [4] get_template
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:359 [inlined]
+│   [5] render(viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:454
+│   [6] render
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:450 [inlined]
+│   [7] render(::Type{MIME{Symbol("text/html")}}, viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::@Kwargs{model::Main.App.form.var"##Main.App.form_ReactiveModel!#227"})
+│     @ Genie.Renderer.Html C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:502
+│   [8] render
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:498 [inlined]
+│   [9] #html#37
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\renderers\Html.jl:658 [inlined]
+│  [10] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\nikhi\.julia\packages\Stipple\7i4cF\src\Pages.jl:68
+│  [11] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:547
+│  [12] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:172
+│  [13] route_request
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Router.jl:147 [inlined]
+│  [14] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:300
+│  [15] handle_request
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:292 [inlined]
+│  [16] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [17] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [18] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [19] #153
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [20] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [21] #remotecall_fetch#158
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [22] remotecall_fetch
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [23] remotecall_fetch
+│     @ C:\Users\nikhi\.julia\juliaup\julia-1.10.5+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [24] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:344
+│  [25] setup_http_listener (repeats 2 times)
+│     @ C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:342 [inlined]
+│  [26] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:313
+│  [27] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:333
+│  [28] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:124
+│  [29] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [30] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [31] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing, verbose::Bool)
+│     @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:469
+│  [32] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Bool, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:401
+│ in expression starting at C:\Users\nikhi\AppData\Local\Temp\jl_genie_build_UNKAIo\GenieViews\e8ce5d8b8eba249b9d8f71e1fdd08b9262276bc5.jl:3
+│ 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:356
+┌ Info: 2024-11-18 00:56:00 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:56:00 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:56:00 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:56:48 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:56:48 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:56:48 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:56:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:56:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:56:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:57:59 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:57:59 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 00:57:59 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:00:10 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:00:10 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:00:10 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:00:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:00:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:00:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:00:47 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:00:47 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:00:47 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:04:50 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:04:51 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:05:07 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:05:07 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:05:10 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:05:10 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:05:12 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=CRBIOVDLIDLXICHYOZGVFUHJEFZCINHA 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-18 01:05:13 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Error: 2024-11-18 01:05:20 Failed to store session data
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:41
+┌ Error: 2024-11-18 01:05:21 Base.InvalidCharError{Char}('\x9c')
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:42
+┌ Error: 2024-11-18 01:05:23 Resetting session
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:46
+┌ Error: 2024-11-18 01:05:34 Failed to store session data
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:41
+┌ Error: 2024-11-18 01:05:34 Base.InvalidCharError{Char}('\x9c')
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:42
+┌ Error: 2024-11-18 01:05:34 Resetting session
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:46
+┌ Error: 2024-11-18 01:05:38 Failed to store session data
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:41
+┌ Error: 2024-11-18 01:05:38 Base.InvalidCharError{Char}('\x9c')
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:42
+┌ Error: 2024-11-18 01:05:38 Resetting session
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:46
+┌ Error: 2024-11-18 01:05:43 Failed to store session data
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:41
+┌ Error: 2024-11-18 01:05:43 Base.InvalidCharError{Char}('\x9c')
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:42
+┌ Error: 2024-11-18 01:05:43 Resetting session
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:46
+┌ Error: 2024-11-18 01:05:43 Failed to store session data
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:41
+┌ Error: 2024-11-18 01:05:43 Base.InvalidCharError{Char}('\x9c')
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:42
+┌ Error: 2024-11-18 01:05:43 Resetting session
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:46
+┌ Error: 2024-11-18 01:05:43 Failed to store session data
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:41
+┌ Error: 2024-11-18 01:05:43 Base.InvalidCharError{Char}('\x9c')
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:42
+┌ Error: 2024-11-18 01:05:43 Resetting session
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:46
+┌ Info: 2024-11-18 01:06:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:06:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:06:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:07:08 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:07:08 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:07:08 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:08:05 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:08:08 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:08:26 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:08:26 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:08:26 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:08:26 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:08:28 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=CRBIOVDLIDLXICHYOZGVFUHJEFZCINHA 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-18 01:08:29 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Info: 2024-11-18 01:09:27 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:09:27 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:09:27 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:10:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:10:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:10:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:10:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:10:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:10:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:13 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:13 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:13 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:28 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:28 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:28 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:51 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:51 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:51 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:57 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:57 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:11:57 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:12:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:12:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:12:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:24 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:24 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:24 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:33 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:33 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:33 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:54 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:54 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:13:54 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:14:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:14:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:14:05 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:14:56 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:14:57 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:15:06 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:15:06 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:15:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:15:06 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:15:07 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=CRBIOVDLIDLXICHYOZGVFUHJEFZCINHA 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-18 01:15:07 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Info: 2024-11-18 01:16:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:16:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:16:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:16:21 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:16:21 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:16:21 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:16:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:16:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:16:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:18:12 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:18:13 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:18:22 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:18:22 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 01:18:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:18:23 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:18:23 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=CRBIOVDLIDLXICHYOZGVFUHJEFZCINHA 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-18 01:18:24 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Error: 2024-11-18 01:18:37 Failed to store session data
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:41
+┌ Error: 2024-11-18 01:18:37 SystemError("opening file \"C:\\\\Users\\\\nikhi\\\\AppData\\\\Local\\\\Temp\\\\jl_AYgvaQ\\\\\"", 2, nothing)
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:42
+┌ Error: 2024-11-18 01:18:37 Resetting session
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:46
+┌ Error: 2024-11-18 01:18:38 Failed to store session data
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:41
+┌ Error: 2024-11-18 01:18:38 SystemError("opening file \"C:\\\\Users\\\\nikhi\\\\AppData\\\\Local\\\\Temp\\\\jl_AYgvaQ\\\\\"", 2, nothing)
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:42
+┌ Error: 2024-11-18 01:18:38 Resetting session
+└ @ GenieSessionFileSession C:\Users\nikhi\.julia\packages\GenieSessionFileSession\otnJC\src\GenieSessionFileSession.jl:46
+┌ Info: 2024-11-18 01:22:09 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:22:09 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:22:09 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:23:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:23:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 01:23:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Error: 2024-11-18 01:23:51 InterruptException()
+└ @ Main none:55
+┌ Info: 2024-11-18 18:20:44 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 18:20:45 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 18:20:55 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 18:20:55 Watching ["c:\\Users\\nikhi\\Desktop\\Julia Project\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-18 18:20:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 18:20:56 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-18 18:20:57 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=HLARETEKYDZQRBOQNNTPVSVJZAILUCOT 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-18 18:20:58 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382

@@ -1,0 +1,73 @@
+<header>
+    <h4><span id="imnd"></span><span id="ifti">Airbnb</span>
+        <q-btn id="ivgaj" color="primary" label="Home" v-on:click="form = true" href="/"></q-btn>
+    </h4>
+</header>
+<div class="row">
+    <div class="st-col col-12 col-sm st-module">
+        <div id="i1pv2-5-2" class="st-card-title">
+            <p id="ihvz9-5-2">Name</p>
+            <q-input id="ivx2j" v-model="name_input" :dense="false" label="Enter your full name" type=""text></q-input>
+        </div>
+    </div>
+    <div id="iwqme-5-2" class="st-col col-12 col-sm st-module">
+        <div id="i1pv2-5-2-2" class="st-card-title">
+            <p id="ihvz9-5-2-2">Location</p>
+            <q-select id="ijvl3-2" label="Select your County" v-model="location_selection" :options="location_list"></q-select>
+        </div>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <div class="st-card-title">
+            <p id="i088k-2">Area</p>
+            <q-select id="ipf8h-2" label="Choose your Neighborhood" :options="area_list" v-model="area_selection"></q-select>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div id="ivotf" class="st-col col-12 col-sm st-module">
+        <div id="i1pv2-5-2-3" class="st-card-title">
+            <p id="ihvz9-5-2-3">Latitude</p>
+        </div>
+        <div class="st-card-title">
+            <q-input id="i6dcs" v-model="latitude_input" :dense="false" label="Enter Latitude" type="text"></q-input>
+        </div>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <div id="i1pv2-5-2-4" class="st-card-title">
+            <p id="ihvz9-5-2-4">Longitude</p>
+            <q-input id="inalw" v-model="longitude_input" :dense="false" label="Enter Longitude" type="text"></q-input>
+        </div>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <div class="st-card-title">
+            <p id="i088k-2-2">Room Type</p>
+            <q-select id="ipf8h-2-2" label="Select the type of room" :options="room_type_list" v-model="room_selection"></q-select>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div id="ibg1f-5" class="col-12 st-module">
+        <div id="iqcdl-2" class="st-card-title">
+            <div id="inf5x-5" class="st-card-title">
+                <p>Minimum number of Nights</p>
+            </div>
+            <div id="ieh28" class="st-field-label">
+                <p>Select a Range (in days)</p>
+            </div>
+            <q-slider id="ivz19-5" :v-model="N" color="primary" :label="true" :max="365" :min="0" :step="1"></q-slider>
+            <q-btn id="i1x6y-5" color="primary" label="Submit" v-on:click="shift = true"></q-btn>
+        </div>
+    </div>
+    <div id="ibg1f-5-2" class="col-12 st-module">
+        <div id="i1pv2-5-2-4-2" class="st-card-title">
+            <p id="ihvz9-5-2-4-2">Ratings</p>
+        </div>
+        <div class="row">
+            <q-radio id="ii1nh" v-model="ratings" color="primary" label="1" val="1"></q-radio>
+            <q-radio id="i7s2t" v-model="ratings" color="primary" label="2" val="2"></q-radio>
+            <q-radio id="ivrdf" v-model="ratings" color="primary" label="3" val="3"></q-radio>
+            <q-radio id="isp36" v-model="ratings" color="primary" label="4" val="4"></q-radio>
+            <q-radio id="ia0l7" v-model="ratings" color="primary" label="5" val="5"></q-radio>
+        </div>
+    </div>
+</div>
