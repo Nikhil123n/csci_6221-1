@@ -142,3 +142,137 @@
 └ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
 ┌ Info: 2024-11-19 01:43:03 Listening on: 127.0.0.1:9101, thread id: 1
 └ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Info: 2024-11-19 02:05:49 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:05:52 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Warning: 2024-11-19 02:06:05 It looks like the Kaleido process is not responding. 
+│ The unresponsive process will be killed, but this means that you will not be able to save figures using `savefig`.
+│ 
+│ If you are on Windows this might be caused by known problems with Kaleido v0.2 on Windows (you are using version 0.2.1).
+│ You might want to try forcing a downgrade of the Kaleido_jll library to 0.1.
+│ Check the Package Readme at https://github.com/JuliaPlots/PlotlyKaleido.jl/tree/main#windows-note for more details.
+│ 
+│ If you think this is not your case, you might try using a longer timeout to check if the process is not responding (defaults to 10 seconds) by passing the desired value in seconds using the `timeout` kwarg when calling `PlotlyKaleido.start` or `PlotlyKaleido.restart`
+└ @ PlotlyKaleido C:\Users\nikhi\.julia\packages\PlotlyKaleido\U5CX4\src\PlotlyKaleido.jl:24
+┌ Info: 2024-11-19 02:06:15 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:06:19 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:06:34 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=PRQWHFNGEKFMIPAVYNGULQMLZTSBXVDQ 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-19 02:06:35 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Info: 2024-11-19 02:07:03 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:07:03 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:07:41 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:07:44 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Warning: 2024-11-19 02:07:57 It looks like the Kaleido process is not responding. 
+│ The unresponsive process will be killed, but this means that you will not be able to save figures using `savefig`.
+│ 
+│ If you are on Windows this might be caused by known problems with Kaleido v0.2 on Windows (you are using version 0.2.1).
+│ You might want to try forcing a downgrade of the Kaleido_jll library to 0.1.
+│ Check the Package Readme at https://github.com/JuliaPlots/PlotlyKaleido.jl/tree/main#windows-note for more details.
+│ 
+│ If you think this is not your case, you might try using a longer timeout to check if the process is not responding (defaults to 10 seconds) by passing the desired value in seconds using the `timeout` kwarg when calling `PlotlyKaleido.start` or `PlotlyKaleido.restart`
+└ @ PlotlyKaleido C:\Users\nikhi\.julia\packages\PlotlyKaleido\U5CX4\src\PlotlyKaleido.jl:24
+┌ Info: 2024-11-19 02:08:04 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:08:07 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:08:16 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=PRQWHFNGEKFMIPAVYNGULQMLZTSBXVDQ 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-19 02:08:17 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Info: 2024-11-19 02:10:10 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:10:11 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Warning: 2024-11-19 02:10:24 It looks like the Kaleido process is not responding. 
+│ The unresponsive process will be killed, but this means that you will not be able to save figures using `savefig`.
+│ 
+│ If you are on Windows this might be caused by known problems with Kaleido v0.2 on Windows (you are using version 0.2.1).
+│ You might want to try forcing a downgrade of the Kaleido_jll library to 0.1.
+│ Check the Package Readme at https://github.com/JuliaPlots/PlotlyKaleido.jl/tree/main#windows-note for more details.
+│ 
+│ If you think this is not your case, you might try using a longer timeout to check if the process is not responding (defaults to 10 seconds) by passing the desired value in seconds using the `timeout` kwarg when calling `PlotlyKaleido.start` or `PlotlyKaleido.restart`
+└ @ PlotlyKaleido C:\Users\nikhi\.julia\packages\PlotlyKaleido\U5CX4\src\PlotlyKaleido.jl:24
+┌ Info: 2024-11-19 02:10:29 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:10:30 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:10:34 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=IRVGNKLCWEVSHCNIGBWMKBJQCPWQAQRT 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-19 02:10:34 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Info: 2024-11-19 02:10:43 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:10:43 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Error: 2024-11-19 02:11:36 InterruptException()
+└ @ Main none:55
+┌ Info: 2024-11-19 02:14:36 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:14:39 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Warning: 2024-11-19 02:14:52 It looks like the Kaleido process is not responding. 
+│ The unresponsive process will be killed, but this means that you will not be able to save figures using `savefig`.
+│ 
+│ If you are on Windows this might be caused by known problems with Kaleido v0.2 on Windows (you are using version 0.2.1).
+│ You might want to try forcing a downgrade of the Kaleido_jll library to 0.1.
+│ Check the Package Readme at https://github.com/JuliaPlots/PlotlyKaleido.jl/tree/main#windows-note for more details.
+│ 
+│ If you think this is not your case, you might try using a longer timeout to check if the process is not responding (defaults to 10 seconds) by passing the desired value in seconds using the `timeout` kwarg when calling `PlotlyKaleido.start` or `PlotlyKaleido.restart`
+└ @ PlotlyKaleido C:\Users\nikhi\.julia\packages\PlotlyKaleido\U5CX4\src\PlotlyKaleido.jl:24
+┌ Info: 2024-11-19 02:14:59 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:15:04 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:15:10 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=XEGNSMCMHXEVMDBBBRMBEPEPWJFPRKVN 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-19 02:15:10 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Info: 2024-11-19 02:15:50 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:15:50 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:15:54 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:15:54 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:16:38 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:16:40 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Warning: 2024-11-19 02:16:54 It looks like the Kaleido process is not responding. 
+│ The unresponsive process will be killed, but this means that you will not be able to save figures using `savefig`.
+│ 
+│ If you are on Windows this might be caused by known problems with Kaleido v0.2 on Windows (you are using version 0.2.1).
+│ You might want to try forcing a downgrade of the Kaleido_jll library to 0.1.
+│ Check the Package Readme at https://github.com/JuliaPlots/PlotlyKaleido.jl/tree/main#windows-note for more details.
+│ 
+│ If you think this is not your case, you might try using a longer timeout to check if the process is not responding (defaults to 10 seconds) by passing the desired value in seconds using the `timeout` kwarg when calling `PlotlyKaleido.start` or `PlotlyKaleido.restart`
+└ @ PlotlyKaleido C:\Users\nikhi\.julia\packages\PlotlyKaleido\U5CX4\src\PlotlyKaleido.jl:24
+┌ Info: 2024-11-19 02:17:04 Watching ["c:\\Users\\nikhi\\Desktop\\Julia\\Airbnb Frontend"]
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:19
+┌ Info: 2024-11-19 02:17:08 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:17:11 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=XEGNSMCMHXEVMDBBBRMBEPEPWJFPRKVN 
+└ @ Genie.Server C:\Users\nikhi\.julia\packages\Genie\TKJWe\src\Server.jl:182
+┌ Info: 2024-11-19 02:17:12 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\nikhi\.julia\packages\HTTP\FSzDg\src\Servers.jl:382
+┌ Info: 2024-11-19 02:18:14 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Info: 2024-11-19 02:18:14 Autoreloading
+└ @ GenieAutoReload C:\Users\nikhi\.julia\packages\GenieAutoReload\zeTlF\src\GenieAutoReload.jl:22
+┌ Error: 2024-11-19 02:18:48 InterruptException()
+└ @ Main none:55

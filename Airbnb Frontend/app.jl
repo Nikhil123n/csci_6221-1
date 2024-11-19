@@ -16,10 +16,10 @@ recommendation = CSV.read(joinpath(@__DIR__, "public", "top_5_recommendations.cs
     @in location_selection = [""]
     @out location_list = String.(unique(data[!, :neighbourhood_group]))
     # Group by neighborhood_group and count
-    @in neighborhood_counts = combine(groupby(data, :neighbourhood_group), nrow => :count)
-    @out location_counts = Int64.(neighborhood_counts.count)
+    # @in neighborhood_counts = combine(groupby(data, :neighbourhood_group), nrow => :count)
+    # @out location_counts = Int64.(neighborhood_counts.count)
 
-    @out availability_365_list = String.(unique(data[!, :availability_365]))
+    @out availability_365_list = Int.(unique(data[!, :availability_365]))
     
     @in area_selection = [""]
     @out area_list = String.(unique(data[!, :neighbourhood]))
