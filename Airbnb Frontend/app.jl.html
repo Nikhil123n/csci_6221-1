@@ -20,7 +20,7 @@
         <div class="col-12 st-module">
             <div class="st-card-title">
                 <p>Room Type</p>
-                <q-select id="i4kx6" label="Select the type of room" :options="room_type_list" v-model="room_selection"></q-select>
+                <q-select id="i4kx6" label="Select the type of room" :options="unique_room_types" v-model="room_selection"></q-select>
             </div>
         </div>
         <div id="ibg1f-5" class="col-12 st-module">
@@ -44,22 +44,22 @@
         </header>
         <div class="row">
             <div class="st-col col-3 col-sm st-module">
-                <h4>{{listing_name_list[0]}}</h4>
-                <p>{{neighbourhood_list[0]}}, {{neighbourhood_group_list[0]}}</p>
-                <p><span id="ipzaj">{{room_type_list[0]}}</span></p>
-                <p id="itgd5"><span id="iim6a"><strong><span id="ir2oc">&amp;#36; {{price_list[0]}}</span></strong></span></p>
+                <h4>{{recommended_names[0]}}</h4>
+                <p>{{recommended_neighborhoods[0]}}, {{recommended_areas[0]}}</p>
+                <p><span id="ipzaj">{{recommended_room_types[0]}}</span></p>
+                <p id="itgd5"><span id="iim6a"><strong><span id="ir2oc">&amp;#36; {{recommended_prices[0]}}</span></strong></span></p>
             </div>
             <div class="st-col col-5 st-module">
-                <h4>{{listing_name_list[1]}}</h4>
-                <p>{{neighbourhood_list[1]}}, {{neighbourhood_group_list[1]}}</p>
-                <p><span id="imlmj">{{room_type_list[1]}}</span></p>
-                <p id="ias4c"><span id="i7qtw"><strong><span id="ieph4">&amp;#36; {{price_list[1]}}</span></strong></span></p>
+                <h4>{{recommended_names[1]}}</h4>
+                <p>{{recommended_neighborhoods[1]}}, {{recommended_areas[1]}}</p>
+                <p><span id="imlmj">{{recommended_room_types[1]}}</span></p>
+                <p id="ias4c"><span id="i7qtw"><strong><span id="ieph4">&amp;#36; {{recommended_prices[1]}}</span></strong></span></p>
             </div>
             <div class="st-col col-3 col-sm st-module">
-                <h4>{{listing_name_list[2]}}</h4>
-                <p>{{neighbourhood_list[2]}}, {{neighbourhood_group_list[2]}}</p>
-                <p><span id="itooc">{{room_type_list[2]}}</span></p>
-                <p id="i5q1l"><span id="i5ksr"><span id="iq6gw"><strong>&amp;#36; {{price_list[2]}}</strong></span></span></p>
+                <h4>{{recommended_names[2]}}</h4>
+                <p>{{recommended_neighborhoods[2]}}, {{recommended_areas[2]}}</p>
+                <p><span id="itooc">{{recommended_room_types[2]}}</span></p>
+                <p id="i5q1l"><span id="i5ksr"><span id="iq6gw"><strong>&amp;#36; {{recommended_prices[2]}}</strong></span></span></p>
             </div>
         </div>
     </div>
@@ -74,8 +74,7 @@
         <plotly id="ik37z" data="W3siZ2J0eXBlIjoiQmFyIENoYXJ0IiwieCI6IiRfe2xvY2F0aW9uX2xpc3R9IiwidHlwZSI6ImJhciIsIm5hbWUiOiJOZWlnaGJvdXJob29kIEdyb3VwIiwieSI6IiRfe2xvY2F0aW9uX2NvdW50c30ifV0=" config="e30=" layout="eyJ0aXRsZSI6Ik15IENoYXJ0In0="></plotly>
     </div>
     <div class="st-col col-12 col-sm st-module">
-        <plotly id="inswj" data="W3siZ2J0eXBlIjoiQmFyIENoYXJ0IiwieCI6IiRfe3Jvb21fdHlwZV9saXN0fSIsInkiOiIkX3tyb29tX3R5cGVfY291bnRzfSIsInR5cGUiOiJiYXIiLCJuYW1lIjoiVHJhY2UifV0=" config="e30=" layout="eyJ0aXRsZSI6Ik15IENoYXJ0In0="></plotly>
+        <plotly id="inswj" data="W3siZ2J0eXBlIjoiQmFyIENoYXJ0IiwieCI6IiRfe3VuaXF1ZV9yb29tX3R5cGVzfSIsInkiOiIkX3tyb29tX3R5cGVfY291bnRzfSIsInR5cGUiOiJiYXIiLCJuYW1lIjoiVHJhY2UifV0=" config="e30=" layout="eyJ0aXRsZSI6Ik15IENoYXJ0In0="></plotly>
     </div>
 </div>
-<plotly id="iq5lf" data="W3siZ2J0eXBlIjoiQ2FuZGxlc3RpY2siLCJ4IjpbIjIwMjQtMDEtMDEiLCIyMDI0LTAxLTAyIiwiMjAyNC0wMS0wMyJdLCJjbG9zZSI6WzEwLDEyLDExXSwiaGlnaCI6WzExLDEzLDEyXSwibG93IjpbOSwxMSwxMF0sIm9wZW4iOls5LDExLDExXSwidHlwZSI6ImNhbmRsZXN0aWNrIiwibmFtZSI6IlRyYWNlIn1d" layout="eyJ0aXRsZSI6Ik15IENoYXJ0In0=" config="e30="></plotly>
-<plotly id="iahkd" data="W3siZ2J0eXBlIjoiQm94IiwieSI6WzEsMiwzLDQsNyw5XSwidHlwZSI6ImJveCIsIm5hbWUiOiJUcmFjZSIsIngiOiIkX3tsb2NhdGlvbl9saXN0fSJ9XQ==" config="e30=" layout="eyJ0aXRsZSI6Ik15IENoYXJ0In0="></plotly>
+<plotly id="isssu" data="W3siZ2J0eXBlIjoiQ2FuZGxlc3RpY2siLCJ4IjoiJF97bG9jYXRpb25fbGlzdH0iLCJjbG9zZSI6IiRfe2F2YWlsYWJpbGl0eV9jbG9zZX0iLCJoaWdoIjoiJF97YXZhaWxhYmlsaXR5X2hpZ2h9IiwibG93IjoiJF97YXZhaWxhYmlsaXR5X2xvd30iLCJvcGVuIjoiJF97YXZhaWxhYmlsaXR5X29wZW59IiwidHlwZSI6ImNhbmRsZXN0aWNrIiwibmFtZSI6IlRyYWNlIn1d" config="e30=" layout="eyJ0aXRsZSI6Ik15IENoYXJ0In0="></plotly>
