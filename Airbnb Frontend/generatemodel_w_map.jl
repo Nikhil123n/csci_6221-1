@@ -6,6 +6,13 @@ using PlotlyJS
 # -----------------------------------------------------------------------------------------
 #                           STEP 1: Run front end and get user input
 # -----------------------------------------------------------------------------------------
+if length(ARGS) > 0
+    selected_feature = parse(Int, ARGS[1])  # Get the first command line argument
+else
+    selected_feature = 1  # Default value if no argument provided
+end
+println("Using feature: $selected_feature")
+
 
 #TODO
 
@@ -91,7 +98,7 @@ else
     println("\nRecommendations saved to 'top_5_recommendations.csv'.")
     
     # Step 10: Directly test a specific row
-    test_row_id = 233  # Example row index for testing
+    test_row_id = selected_feature  # Example row index for testing
     println("\nTesting with row ID: $test_row_id")
     println("Selected record: ", ab_nyc_data[test_row_id, :])  # Print the selected row
 end

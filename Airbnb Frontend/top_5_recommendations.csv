@@ -1,0 +1,6 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+233662,Large Sunny Luxe Prvt Room/Midtown,1223568,Tiffany,Manhattan,Midtown,40.75575,-73.96842,Private room,110,2,61,2019-05-18,0.65,1,264
+360400,Beautiful Room in Manhattan Loft,1386983,Candice,Manhattan,Midtown,40.74553,-73.98943,Private room,135,3,214,2019-06-02,2.45,2,167
+403264,Luxury room in Manhattan Duplex Apt,1386983,Candice,Manhattan,Midtown,40.7453,-73.99056,Private room,145,3,165,2019-07-03,1.88,2,181
+645922,Gorgeous Modern Manhattan Apt,1740784,Gal,Manhattan,Midtown,40.74648,-73.98459,Private room,100,3,41,2015-09-25,0.52,1,0
+698094,5th Ave Apartment in Midtown! ,3569392,Kristen,Manhattan,Midtown,40.76221,-73.97787,Private room,120,4,31,2016-08-26,0.38,1,0
